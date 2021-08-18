@@ -1,0 +1,27 @@
+.equip-slot {
+    background-color: blue;
+    width: 50%;;
+}
+.equip-slot img {
+    width:  70%;
+    display:block;
+    margin:auto;
+}
+
+.slot {
+    background-color: rgb(136, 255, 1);
+
+}
+.char{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(0, 0, 0);
+    padding: 10px;
+  }
